@@ -7,7 +7,7 @@ import pandas as pd
 
 
 st.header("Heart disease predictor")
-new_model = pickle.load(open('heart_disease_model.pkl','rb'))
+new_model = pickle.load(open('model1.pkl','rb'))
 
 
 input_data = (62,0,0,140,268,0,0,160,0,3.6,0,2,2)
