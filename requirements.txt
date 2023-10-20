@@ -1,5 +1,6 @@
 streamlit
 pickle
-sklearn
+scikit-learn
 numpy
 pandas
+matplotlib
